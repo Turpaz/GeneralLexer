@@ -1,0 +1,9 @@
+import math as m;
+
+func main()
+{
+	print("Hello World!");
+
+	var a: int = 0b1010 + 0xA + 0o12;
+	print("Pi: ", m.PI, "a: ", a);
+}
